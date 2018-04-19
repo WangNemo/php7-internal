@@ -1,12 +1,12 @@
 # PHP7内核剖析
 ````
 原创内容，转载请注明出处~
-online: http://www.php-internals.com/book/(http://www.php-internals.com/book/)
+
 代码版本：php-7.0.12
 ````
 ## 反馈
 [交流&吐槽](https://github.com/pangudashu/php7-internal/issues/3)  [错误反馈](https://github.com/pangudashu/php7-internal/issues/2)
-
+[在线阅读：http://www.php-internals.com/book/](http://www.php-internals.com/book/)
 ## 纸质版
 <div align="center">
     <img src="img/book.jpg" height="280" >
